@@ -1,2 +1,2 @@
-# projeto-responsivo-desktop-mobile
-projeto responsivo para tamanhos de telas diferentes
+# projeto responsivo multi telas
+## projeto responsivo para tamanhos de telas diferentes
